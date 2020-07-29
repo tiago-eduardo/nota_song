@@ -46,4 +46,32 @@
         android:text="TextView"
         tools:layout_editor_absoluteX="217dp"
         tools:layout_editor_absoluteY="144dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="172dp"
+        android:layout_marginTop="130dp"
+        android:text='Tiago Eduardo Silva Pinto'
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/tiago"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="210dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Sonhador e amante de musica"
+        tools:layout_editor_absoluteX="180dp"
+        tools:layout_editor_absoluteY="250dp" />
+
+
 </android.support.constraint.ConstraintLayout>
