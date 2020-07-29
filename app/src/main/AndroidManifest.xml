@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".Creditos"
+            android:label="Créditos"
             android:parentActivityName=".MainActivity"/>
 
         <meta-data
