@@ -10,6 +10,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
         android:text="NotaSong"
         android:textColor="@color/secondaryTextColor"
         android:textSize="48sp"
